@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pertemuan11</string>
+    <string name="auth_failed" />
+    <string name="login_home" />
+</resources>
